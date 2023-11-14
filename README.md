@@ -82,6 +82,7 @@ To run the project, execute the following command:
 
   👤 **Surafel Samson**
 - GitHub: [@githubhandle](https://github.com/Surafels)
+- Twitter: [@twitterhandle](https://twitter.com/SurafelSamson2)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
